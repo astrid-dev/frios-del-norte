@@ -1,8 +1,6 @@
 ---
 label: ":rocket: Primeros Pasos"
-order: "99"
-backlinks:
-  enabled: false
+order: 99
 ---
 # Primeros Pasos
 
@@ -10,7 +8,7 @@ backlinks:
 
 ### Mínimo indispensable
 
-De manera general no se necesitan nada mas alla de ganas y un grupo de jugadores (donde al menos uno conozca las reglas).
+De manera general no se necesitan nada mas alla de ganas de jugar y un grupo de jugadores (donde al menos uno conozca las reglas).
 
 ### Recomendado
 
@@ -20,21 +18,27 @@ De manera general no se necesitan nada mas alla de ganas y un grupo de jugadores
 
 ### Preferible
 
-- **Set de Dados:** Es un paquete, comúnmente de 7 piezas, de dados poliédricos. Este paquete puede variar de juego en juego, no te preocupes si no lo tienes es posible usar una version digital o muy probablemente tu DM Tendra un set que te pueda prestar.
+- **Set de Dados:** Es un paquete, comúnmente de 7 piezas, de dados poliédricos. Este paquete puede variar de juego en juego, no te preocupes si no lo tienes es posible usar una [version digital](/starting/resources/#apps) o muy probablemente tu DM Tendra un set que te pueda prestar.
 - **Conocer la reglas básicas:** Sabemos que nadie quiere tener tarea para una actividad recreativa pero siempre es recomendable tener una noción básica los conceptos antes de empezar a jugar, por eso recomendamos dar una hojeada a cualquier guía de inicio rápido del sistema que vas a jugar. No te preocupes si no puedes leer dicha guía antes de la primera partida, siempre habra alguien que te pueda ayudar a entender los conceptos en el momento o durante la sesión cero
 
 ## Conceptos Comunes
 
-- Raza/Especie: La especie de los personajes, si son humanos, elfos, extraterrestres, aberraciones, etc... 
-- Clase: El oficio de los personajes, si son magos, guerrero, investigador, etc...
-- Habilidad: La puntuación o “nivel” de los atributos de tu personaje, estos determinan qué tan capaz eres para realizar determinadas acciones, estas características pueden cambiar de juego en juego y/o de sistema en sistema
-- Tirada: Momento de tirar los dados y ver qué pasa.
-- Tipos de Dados: son dados poliédricos utilizados para jugar, su abreviación común es la letra "d" seguida de un numero que indica la cantidad de caras
-  - d20 - Dado 20 caras
-  - d12 - Dado 12 caras
-  - d10 - Dado 10 caras
-  - d8 - Dado 8 caras
-  - d6 - Dado 6 caras (el de toda la vida)
-  - d4 - Dado 4 caras
-  - d2 - Dado 2 caras (si existe pero también puede ser una moneda)
+- **Raza**: La especie de los personajes, si son humanos, elfos, extraterrestres, aberraciones, etc... 
+- **Clase**: El oficio de los personajes, si son magos, guerrero, investigador, etc...
+- **Habilidad**: La puntuación o “nivel” de los atributos de tu personaje, estos determinan qué tan capaz eres para realizar determinadas acciones, estas características pueden cambiar de juego en juego y/o de sistema en sistema
+- **Tirada**: Momento de tirar los dados y ver qué pasa.
+- **Dados**: son dados poliédricos utilizados para jugar, su abreviación común es la letra "d" seguida de un numero que indica la cantidad de caras
 
+||| Dado 20 caras - d20
+![](/assets/icons/d20.png)
+||| Dado 12 caras - d12
+![](/assets/icons/d12.png)
+||| Dado 10 caras - d10
+![](/assets/icons/d10.png)
+||| Dado 8 caras - d8
+![](/assets/icons/d8.png)
+||| Dado 6 caras - d6
+![](/assets/icons/d6.png)
+||| Dado 4 caras - d4
+![](/assets/icons/d4.png)
+|||

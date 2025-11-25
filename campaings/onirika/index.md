@@ -1,13 +1,11 @@
 ---
-label: ":zzz: Onírika - DnD 5e"
-order: "99"
-backlinks:
-  enabled: false
+label: ":zzz: Onírika"
+order: 99
+nav:
+  badge: DnD 5e|info
 ---
 # Onírica
 
-## Introducción
-
 ## Dungeon Master
 
-## Personajes Jugables
+## Introducción

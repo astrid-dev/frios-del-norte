@@ -1,8 +1,6 @@
 ---
 label: "Recursos"
-order: "98"
-backlinks:
-  enabled: false
+order: 98
 ---
 # Recursos DnD 5e
 
@@ -10,7 +8,7 @@ backlinks:
 
 ### Para Nivel20
 
-Colección de manuales para incluir reglas, razas, objetos y extras a tus personajes de Nivel20
+Colección de manuales para incluir reglas, razas, objetos y extras a tus personajes y partidas de Nivel20
 
 - [Reglas Básicas](https://nivel20.com/s/dzrlzc)
 - [Reglas Básicas - Edición Mejorada](https://nivel20.com/games/dnd-5/rulebooks/455-edicion-mejorada)

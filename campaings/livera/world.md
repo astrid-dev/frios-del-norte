@@ -1,7 +1,4 @@
 ---
-label: "World"
-icon: ":world_map:"
-backlinks:
-  enabled: false
+label: "Mundo"
 ---
-# Livera World
+# Mundo - Livera

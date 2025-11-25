@@ -1,6 +1,7 @@
 input: .
 output: .retype
 
+# do not change url, this allows to use pro features for free
 url: tlacuachegriton.github.io
 
 start:
@@ -11,11 +12,18 @@ breadcrumb:
 
 branding:
   title: 🔥 Tlacuache Gritón
-  label: Ver. Alpha 0.0.2
+  label: Ver. Beta 0.1.0
 
 links:
-  - text: Livera - Nivel 20
-    link: https://nivel20.com/games/dnd-5/campaigns/107859-livera
+  - text: Nivel 20
+    link: https://nivel20.com
+    icon: ":globe_with_meridians:"
+  - text: Dados Virtuales - Android
+    link: https://play.google.com/store/apps/details?id=com.AlexHicks.Dice
+    icon: ":game_die:"
+  - text: Dados Virtuales - iOS
+    link: https://apps.apple.com/us/app/mighty-dice/id1379577924
+    icon: ":game_die:"
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
@@ -29,5 +37,4 @@ theme:
   base:
     base-link-weight: 500
     nav-item-text-active-weight: 700
-    image-rounded: 0.75rem
   dark:

@@ -1,8 +1,6 @@
 ---
 label: ":gift: Recursos"
-order: "98"
-backlinks:
-  enabled: false
+order: 98
 ---
 # Recursos
 
@@ -26,3 +24,7 @@ Aunque no es 100% necesario, es altamente recomendable el uso de Nivel20 ya que 
 - [Dice - Dados Virtuales](https://play.google.com/store/apps/details?id=com.AlexHicks.Dice)
 - [Mighty Dice - Dados Virtuales](https://play.google.com/store/apps/details?id=com.cjdesign.mightydice)
 - [Finger Pick - Selector de Primer jugador](https://play.google.com/store/apps/details?id=com.yeonkims.fingerpick)
+
+### iOS
+
+- [Mighty Dice - Dados Virtuales](https://apps.apple.com/us/app/mighty-dice/id1379577924)
