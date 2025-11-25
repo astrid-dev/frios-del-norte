@@ -1,11 +1,10 @@
 ---
-label: "Onírika"
-icon: ":zzz:"
-order: "99"
+label: ":bangbang: Error 404 -  Mago la Ascension"
+order: "98"
 backlinks:
   enabled: false
 ---
-# Onírica
+# Error 404
 
 ## Introducción
 

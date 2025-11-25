@@ -1,5 +1,5 @@
 ---
-label: "¡Bienvenides!"
+label: ":wave: ¡Bienvenides!"
 icon: ":wave:"
 backlinks:
   enabled: false
@@ -8,6 +8,6 @@ backlinks:
 
 ## Campañas Activas
 
-- [Livera](/livera/index.md) | DnD 5e | ...Short Description
-- [Onírika](/onirika/index.md) | Dnd 5e | ...Short Description
-- [Error 404](/error_404/index.md) | Mago la Ascension | ...Short Description
+- [Livera](/campaings/livera/index.md) | DnD 5e | ...Short Description
+- [Onírika](/campaings/onirika/index.md) | Dnd 5e | ...Short Description
+- [Error 404](/campaings/error_404/index.md) | Mago la Ascension | ...Short Description

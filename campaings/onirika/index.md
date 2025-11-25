@@ -1,11 +1,10 @@
 ---
-label: "Error 404"
-icon: ":bangbang:"
-order: "98"
+label: ":zzz: Onírika - DnD 5e"
+order: "99"
 backlinks:
   enabled: false
 ---
-# Error 404
+# Onírica
 
 ## Introducción
 
