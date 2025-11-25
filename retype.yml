@@ -6,8 +6,12 @@ url: tlacuachegriton.github.io
 start:
   pro: true
 
+breadcrumb:
+  home: ":icon-home:"
+
 branding:
   title: 🔥 Tlacuache Gritón
+  label: Ver. Alpha 0.0.2
 
 links:
   - text: Livera - Nivel 20
@@ -15,3 +19,15 @@ links:
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
+
+nav:
+  mode: stack
+  icons:
+    mode: none
+
+theme:
+  base:
+    base-link-weight: 500
+    nav-item-text-active-weight: 700
+    image-rounded: 0.75rem
+  dark:

@@ -2,12 +2,19 @@
     "cSpell.words": [
         "backlinks",
         "bienvenides",
-        "livera",
-        "onírika",
+        "Humblewood",
+        "Livera",
+        "Mordenkainen",
+        "multiverso",
+        "Onírika",
+        "Puntajes",
+        "Strixhaven",
         "tlacuache",
-        "tlacuachegriton"
+        "tlacuachegriton",
+        "Xanathar"
     ],
     "conventionalCommits.scopes": [
-        "build"
+        "build",
+        "project"
     ]
 }
