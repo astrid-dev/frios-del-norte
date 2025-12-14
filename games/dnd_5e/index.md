@@ -24,6 +24,18 @@ No tienes que limitarte a solo un set, es muy común necesitar 2, 3 o mas copias
 No te preocupes si necesitas mas de un dado para alguna tirada y no lo tienes, siempre puedes tirar el mismo dado mas de una vez o pedir prestado uno a un compañero o DM
 !!!
 
+### Tiradas
+
+El dado principal es 1D20, el DM decidirá la dificultad de la tirada, lanzar un valor mayor es un éxito, lanzar un valor menor es un fracaso. Tu tirada puede llevar un valor modificador que se suma o resta según lo que deseas realizar.
+
+|||1D20
+![](/assets/icons/d20.png)
+|||Pifia
+1 Natural
+|||Éxito
+20 Natural
+|||
+
 ## Creación de Personaje
 
 ### Raza
