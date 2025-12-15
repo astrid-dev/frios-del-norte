@@ -105,7 +105,9 @@ Dificultad menor a 50% -> 96 a 100 Natural
 | DES > TAM y FUE > TAM | 9 |
 |||
 
-> Fracciones se redondean hacia abajo
+!!!info
+Fracciones se redondean hacia abajo
+!!!
 
 #### Valores Estándar
 
