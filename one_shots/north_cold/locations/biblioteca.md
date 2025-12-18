@@ -1,10 +1,13 @@
 # Biblioteca
 
+## Atmósfera
+
 La Biblioteca es un cuarto oscuro y de techo alto. A pesar de los estantes llenos, el cuarto se siente vacío. El aire está seco y huele a papel viejo, moho y, muy sutilmente, a ozono (el olor a frío eléctrico).
 
 Un cuarto oscuro con grandes estantes de madera llenos de libros encuadernados en piel. Los temas son variados: historia de la Nueva España, tratados de navegación, manuales de administración de haciendas y poesía clásica. En una de las estanterías superiores, hay un pequeño hueco donde el polvo ha sido barrido, y solo queda un catálogo de libros que lista un volumen faltante con el título "Los Secretos del Frío Eterno".
 
 La gran mesa central tiene un atril. En los estantes inferiores hay volúmenes sobre historia, administración de haciendas y leyes coloniales.
+
 ## La Trampa del Catálogo (Clue Inicial)
 
 Los investigadores notan que hay un pequeño hueco en la estantería que ha sido limpiado del polvo.

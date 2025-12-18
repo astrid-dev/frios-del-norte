@@ -12,7 +12,8 @@ La "Estatua Esquelética": A un lado del altar, la estatua de la Virgen está ex
 
 - **Tirada de Cordura (SAN):** Ver a Sor Rita muerta de forma tan grotesca exige una tirada de 1/1D3 SAN.
 - **Encontrar (Normal):** Al lado de la mano de la Monja, en el suelo, hay un pequeño trozo de pergamino arrugado y manchado de sangre. Es un fragmento de la Biblia: Job 37:9 (Versión Modificada).
-    - Mitos de Cthulhu (Normal) / Religión (Normal): Reconocer que el versículo ha sido sutilmente alterado.
+    - **Mitos de Cthulhu (Normal) / Religión (Normal):** Reconocer que el versículo ha sido sutilmente alterado. "Del sur viene el torbellino, Y el frío de los vientos del norte."
+    - **La Revelación Atávica:** Al leer el versículo, el investigador siente un frio que "sella" todo su cuerpo, como si sus articulaciones ya no fueran flexibles y su corazón ya no permitiera el flujo de sangre. Tiene visiones de ventanas, puertas, cuevas, su ataúd y cualquier abertura sellándose con hielo negro. Aprende el hechizo [Sellado de Obsidiana](../props/hechizos.md)
 
 ## La Criatura Esquelética Despierta
 

@@ -27,3 +27,4 @@ El Belén es la mejor fuente de información sobre el simbolismo del culto.
 - **Encontrar (Difícil):** Oculto entre los pliegues del manto de seda de la Virgen María (o en la madera del pesebre), el investigador puede detectar un símbolo grabado.
 - **Pista Clave (Símbolo):** El símbolo del culto: un Copo de Nieve de Ocho Puntas, grabado de forma sutil.
 - **Mitos de Cthulhu (Difícil):** Si el investigador tiene Mitos, reconoce el símbolo como una variación de sellos arcanos asociados con el frío cósmico y el aislamiento.
+- **La Revelación Atávica:** Al acercarse a la figura marcada, el investigador siente un llamado que no puede evitar suelta un grito en un dialecto desconocido que es respondido pero solo él logra escuchar. Aprende el hechizo [Llamar a Ithaqua (Wendigo)](../props/hechizos.md)

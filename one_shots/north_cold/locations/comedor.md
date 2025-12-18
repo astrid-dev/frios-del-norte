@@ -39,3 +39,5 @@ El suelo de piedra está limpio, pero la fina escarcha que lo cubre puede haber 
 Un gran candelabro de bronce servía de centro de mesa. Una de sus velas está apagada y partida a la mitad, con cera derretida y congelada a la vez.
 
 - **Criptografía (Normal) o Mitos de Cthulhu (Difícil):** Grabado sutilmente en la base del candelabro, el investigador puede detectar un símbolo repetido de tres líneas quebradas que apuntan hacia el suelo, un símbolo antiguo para _"muerte por congelación"_ o _"reposo eterno"_ en algunas sectas del norte.
+- **La Revelación Atávica:** Al tocar el candelabro, el investigador siente un hambre feroz, de la nada la carne de sus compañeros parece increíblemente apetitosa. Aprende el hechizo [Canto del Maíz Muerto](../props/hechizos.md)
+    - **Tirada POW(Difícil):** Si falla la tirada se abalanza al compañero mas cercano tratando de morderlo disparando una tirada enfrenada de FUE vs FUE, recupera su voluntad en el momento que encaja los dientes en la carne de su compañero o cuando es separado en su arranque de hambruna.
