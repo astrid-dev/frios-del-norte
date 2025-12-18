@@ -26,9 +26,9 @@ La Curandera Totonaca
 | PM | 15 |
 | SAN | 75 |
 | DB | +1D4 |
-| Dodge |  |  |
+| Dodge | |
 | MOV | 7 |
-| Esquiva |  |
+| Esquiva | |
 |||
 
 ## Habilidades

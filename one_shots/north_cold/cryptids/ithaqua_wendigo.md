@@ -69,7 +69,7 @@ Una manifestación mucho más poderosa, quizás la forma final que Inés intenta
 ## Forma Completa
 
 !!!info Nota para el Guardián:
-Ithaqua en su forma completa no es un enemigo combatible. Es una fuerza de la naturaleza, un evento catastrófico. Si aparece plenamente, el objetivo de los investigadores es huir o morir. Sus estadísticas son meramente representativas de su escala cósmica.
+Ithaqua (Wendigo) en su forma completa no es un enemigo combatible. Es una fuerza de la naturaleza, un evento catastrófico. Si aparece plenamente, el objetivo de los investigadores es huir o morir. Sus estadísticas son meramente representativas de su escala cósmica.
 !!!
 
 !!!danger Tirada de Cordura
@@ -98,4 +98,4 @@ Ithaqua en su forma completa no es un enemigo combatible. Es una fuerza de la na
 
 - **Controlar el Clima:** Puede bajar la temperatura a niveles letales (-50°C o más) instantáneamente en kilómetros a la redonda, crear ventiscas cegadoras y huracanes.
 
-- **El Arrebato (Ataque):** Ithaqua selecciona a una o varias víctimas. Deben superar una tirada opuesta de FUE contra la mitad del POD de Ithaqua (aprox. 87). Si fallan, son arrebatados al cielo para siempre (o para ser devueltos congelados meses después).
+- **El Arrebato (Ataque):** Ithaqua (Wendigo) selecciona a una o varias víctimas. Deben superar una tirada opuesta de FUE contra la mitad del POD de Ithaqua (Wendigo) (aprox. 87). Si fallan, son arrebatados al cielo para siempre (o para ser devueltos congelados meses después).

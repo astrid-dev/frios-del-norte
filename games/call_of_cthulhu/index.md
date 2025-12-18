@@ -16,7 +16,6 @@ Los dados recomendados para jugar son:
 | Forma | Abreviatura | Nombre Completo |
 |---|---|---|
 | ![](/assets/icons/d20.png) | 1d20 | 1 Dado 20 caras |
-| ![](/assets/icons/d12.png) | 1d12 | 1 Dado 12 caras |
 | ![](/assets/icons/d10.png) ![](/assets/icons/d10.png) | 2d10 | 2 Dados 10 caras (unidades y decenas) |
 | ![](/assets/icons/d8.png) | 1d8 | 1 Dado 8 caras |
 | ![](/assets/icons/d6.png) | 1d6 | 1 Dado 6 caras |

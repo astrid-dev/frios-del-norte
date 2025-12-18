@@ -2,7 +2,7 @@
 
 ## Escritas con desesperación por Éliezer Poisot
 
-### 1\. La Advertencia Directa
+### La Advertencia Directa
 
 Esta nota está escrita rápidamente con una pluma temblorosa, probablemente dejada en el escritorio de la biblioteca junto a un mapa arcano.
 
@@ -12,7 +12,7 @@ Esta nota está escrita rápidamente con una pluma temblorosa, probablemente dej
 
 - **Pistas Clave:** Identifica a Doña Inés, nombra a "El Viejo" como el portal, y establece la **Medianoche de Nochevieja** como la fecha límite.
 
-### 2\. La Metáfora Mística
+### La Metáfora Mística
 
 Esta nota está doblada varias veces, oculta dentro del bolsillo del abrigo congelado de Éliezer o dentro de un libro de salmos en la capilla.
 
@@ -24,7 +24,7 @@ Esta nota está doblada varias veces, oculta dentro del bolsillo del abrigo cong
 
 - **Pistas Clave:** Usa la metáfora del "Saco" (el muñeco) y la "Hora que no existe" (medianoche/la hora de la transición) como fecha límite. Además, sugiere que el ritual final es **cerca del agua** (el puerto).
 
-### 3\. La Carne del Pacto
+### La Carne del Pacto
 
 Esta nota está escrita en la parte trasera de un papel litúrgico o de un trozo de corteza de plátano, con lo que parece ser sangre seca o tinta muy oscura, y garabateada con una urgencia aterradora.
 

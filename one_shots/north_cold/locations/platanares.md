@@ -1,65 +1,55 @@
 # Platanares
 
-Las plantaciones son peligrosas por dos razones claves:
+## Acceso y Atmósfera
 
-1.  **Aislamiento y Recurso:** Es un entorno abierto, sin cobertura y fácil de congelar. Los campos son la fuente de las víctimas del culto y de la materia prima para los rituales de **Doña Inés**. Es un terreno de caza donde los **Nahuales** tienen camuflaje y ventaja.
-   
-2.  **El Foco del Frío:** La magia de Ithaqua (Wendigo) ha saturado estos campos. Es el área donde la **energía gélida** es más densa, ya que el **Caminante del Viento** sobrevuela constantemente estos territorios.
+Ubicados al este de la propiedad, tras cruzar el muro perimetral, los platanales se extienden hasta donde alcanza la vista. Lo que antes era un mar verde y exuberante es ahora un cementerio de hojas ennegrecidas y quebradizas.
 
-## Escenarios
+- **Visibilidad Limitada:** Las enormes hojas de plátano, rígidas por la escarcha, bloquean la vista a más de tres metros, creando un laberinto claustrofóbico.
+- **Atmósfera:** El sonido ambiental es inquietante; el viento no hace susurrar a las plantas, sino que las hace chocar entre sí con un tintineo cristalino y seco, como si estuvieran hechas de vidrio soplado. Un vaho denso y blanquecino surge de la tierra, dificultando la respiración.
 
+## El Paisaje de la Ruina
 
-### 1\. El Rastro Congelado (Testimonio Físico)
+La plantación muestra una lucha biológica contra un clima para el que no fue diseñada.
 
-Este escenario se activa justo en la linde de los campos. Los investigadores encuentran el destino de un trabajador.
+- **Los Frutos de Hielo:** Los racimos de plátanos cuelgan pesados, pero su piel se ha vuelto transparente, revelando un interior de pulpa cristalizada y negra.
+    - **Mecánica:** Si alguien intenta comer un fruto, sufrirá 1D3 de daño en la boca por el frío extremo y deberá superar una tirada de CON para no contraer una enfermedad gástrica sobrenatural.
+- **El Suelo Escarchado:** La tierra está tan congelada que las raíces de los árboles han comenzado a brotar hacia afuera, retorcidas como dedos en agonía.
+- **Tirada de Clima (Difícil):** El investigador nota que la temperatura baja drásticamente cada diez metros que se internan. Aquí el frío no es una condición atmosférica, es una emanación del suelo.
 
-#### Interacción
+## Amenazas y Pistas Ocultas
 
-Cerca del inicio del campo de caña o plátanos, el grupo encuentra un caballo ensillado que regresa solo o las herramientas de un **peón desaparecido**. Si siguen el rastro por unos metros (Tirada de Rastrear  $40\%$ ):
+### Laberinto de Sombras
 
-1.  **El Descubrimiento (SAN Check):** Encuentran al peón **"El Gato"** (un peón local conocido por su fuerza), pero está incompleto. El cuerpo ha sido **congelado y luego meticulosamente seccionado** en la cintura, como si hubiera sido cortado por una cuchilla gigantesca. La parte superior está perfectamente conservada, pero los cortes son quirúrgicos y gélidos.
-   
-    - **SAN Check:**  $1D4/1D8$  (Horror de la mutilación y el frío imposible).
-       
-2.  **La Pista Gélida:** Al examinar el corte (Medicina  $30\%$ ), confirman que el tejido fue **instantáneamente congelado y cortado**. Si tocan el cuerpo, deben hacer una **Tirada de CON  $50\%$  o perder **1 Punto de Magia** por el choque del frío.
-   
+- **Mecánica de Bucle:** Si los jugadores insisten en entrar sin una brújula o un guía, cualquier tirada de Orientación/Navegación que no sea un "Éxito Extremo" los devuelve al mismo punto de partida tras 10 minutos de caminata agotadora.
+- **Pérdida de Cordura (0/1D2):** Al salir del laberinto, se dan cuenta de que sus relojes se han detenido o que el sol (o la luna) ha cambiado de posición de forma imposible, sugiriendo que el tiempo fluye distinto entre los árboles.
 
-**Narración Sugerida:** "El cuerpo parece una estatua de hielo y carne; un corte preciso, vertical, ha separado su tronco. La sangre, sin embargo, no está líquida, sino que ha explotado en **cristales de hielo negro** sobre la caña cercana."
+### La Barrera de Escarcha (Daño Ambiental)
 
-### 2\. La Barrera Psíquica (El Viento Incontrolable)
+El frío en los platanales no es solo una temperatura baja, es una fuerza agresiva que drena la vida.
 
-Esta barrera se activa si un investigador intenta adentrarse más de 20 metros en la plantación.
+- **El Muro de Vaho:** Al acercarse al límite de la plantación, una niebla blanca y espesa oculta todo. Los investigadores deben realizar una tirada de CON (Difícil).
+- **Efecto del Fallo:** Si fallan, el aire gélido quema sus pulmones inmediatamente, causando 1D4 de daño directo (sin armadura) y una penalización de "Dificultad" en todas las tiradas físicas mientras permanezcan cerca de los árboles.
+- **Advertencia Visual:** Pueden ver los restos de un perro de la hacienda o un ave que intentó entrar; el animal está congelado en una postura de huida, rompiéndose en pedazos de hielo ante el menor contacto con el viento.
 
-#### Interacción
+### La Sombra en el Laberinto
 
-Un **viento antinatural** sopla solo desde el interior de la plantación. No hay sonidos de insectos o animales; solo un silencio roto por un **aullido psíquico** en la cabeza del investigador.
+- **Tirada de Escuchar (Normal):** Entre el choque de las hojas secas, se escucha un jadeo sibilante y el crujir de pasos rápidos sobre la escarcha. Es el territorio de caza preferido del [Chupacabras](../cryptids/chupacabras.md).
+- **Emboscada:** Debido a la densidad de la plantación, cualquier combate aquí se realiza con Desventaja para armas de fuego largas (rifles/escopetas), ya que las hojas estorban el movimiento.
+- **Presencia Constante:** En cuanto un investigador pone un pie en la tierra de la plantación, escucha el sonido de mil hojas de plátano vibrando al mismo tiempo. Es el Chupacabras moviéndose a gran velocidad, rodeándolos.
 
-1.  **Tirada de Miedo (Voluntad/POD):** El investigador debe hacer una **Tirada de POD (Poder) contra  $60\%$ .
-   
-2.  **Fallo (Miedo Incontrolable):** El jugador siente una **sensación incontrolable de pánico y repulsión**. Su mente le grita que si da un paso más, **el cielo lo tragará**.
-   
-    - **Efecto:** El personaje está obligado a **retroceder inmediatamente** del campo. Si el jugador se resiste, el Guardián puede imponer una penalización de **\-20% a TODAS las acciones** hasta que abandone la plantación (por el estrés).
-       
-3.  **Éxito:** El personaje puede avanzar, pero sufre una **Pérdida de Cordura de  $1$  punto** por la fuerza de voluntad requerida para ignorar la advertencia.
-   
+- **Mecánica de Acecho:** Realiza una tirada secreta de Sigilo para la criatura contra la Escuchar de los jugadores. Si la criatura gana, los jugadores sienten un aliento gélido en la nuca y ven ojos rojos reflejados en las hojas de hielo. Esto debería ser suficiente para que retrocedan hacia la seguridad de los edificios.
 
-**Justificación:** Ithaqua (Wendigo) ejerce una **presión psíquica** en sus dominios de caza. La mente del investigador detecta el peligro cósmico puro.
+## Claves y Mecánicas Ocultas
 
-### 3\. El Espantapájaros (La Advertencia del Culto)
+El Punto de Origen
 
-Este escenario se utiliza como una visión rápida desde una ventana o el límite del patio.
+- **Orientación (Difícil):** Si los investigadores logran navegar sin perderse, notarán que todos los árboles parecen inclinarse levemente en una dirección: hacia la Capilla de la hacienda, como si el frío los estuviera "succionando".
+- **Cordura (SAN):** Ver la inmensidad de la cosecha muerta y la escala de la catástrofe económica y natural exige una tirada de 0/1 SAN.
 
-#### Interacción
+### Bloqueo Narrativo
 
-Una figura, visible entre las densas hojas de plátano, atrae la mirada. Parece un **espantapájaros** hecho con ropa de campesino, pero hay algo profundamente incorrecto en su postura.
+Si los investigadores intentan forzar la entrada, usa a los habitantes de la hacienda:
 
-1.  **El Descubrimiento (SAN Check):** Un investigador con buen **Observar** o **Descubrir** nota que no es un espantapájaros, sino **un peón que ha sido empalado y congelado** en una posición de crucifixión macabra. El cuerpo no está dañado, sino que es una **muestra de advertencia**.
-   
-    - **SAN Check:**  $1D3/1D6$  (Grotesco y Desconcertante, ya que es una puesta en escena).
-       
-2.  **La Pista Oculta:** La camisa del peón lleva cosido un **pequeño glifo de hielo seco** (el mismo material que encontraron en la habitación de Inés) y una nota enrollada en la boca:
-   
-    > "Aquí está la cosecha del Viejo. Los que buscan entre las cañas solo encuentran el sueño gélido."
-   
+- **La Advertencia de los Peones:** Si queda algún trabajador, este se arrodillará y les suplicará que no entren, alegando que "la tierra ya no pertenece a los vivos" y que Inés ha marcado los árboles con sangre.
 
-**Justificación:** Los Nahuales o la propia Inés han colocado estratégicamente estos cuerpos como **marcas de territorio** y advertencias, utilizando el clima sobrenatural para conservarlos y aterrorizar a cualquiera que contemple invadir sus terrenos de sacrificio.
+- **La Reacción de Éliezer (si sigue vivo):** Éliezer puede advertirles que ha perdido a tres hombres en los últimos dos días solo con que se acercaran a recoger un fruto caído.

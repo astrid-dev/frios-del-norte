@@ -26,9 +26,9 @@ Comerciante de Esclavos Arrepentido
 | PM | 10 |
 | SAN | 50 |
 | DB | +1D6 |
-| Dodge |  |  |
+| Dodge | |
 | MOV | 7 |
-| Esquiva |  |
+| Esquiva | |
 |||
 
 ## Habilidades

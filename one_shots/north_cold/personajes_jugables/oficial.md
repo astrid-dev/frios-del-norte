@@ -26,9 +26,9 @@ Oficial de la Armada Real
 | PM | 10 |
 | SAN | 50 |
 | DB | +1D6 |
-| Dodge |  |  |
+| Dodge | |
 | MOV | 8 |
-| Esquiva |  |
+| Esquiva | |
 |||
 
 ## Habilidades

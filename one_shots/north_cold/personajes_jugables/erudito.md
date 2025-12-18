@@ -26,9 +26,9 @@ Erudito Universitario
 | PM | 12 |
 | SAN | 60 |
 | DB | +1D4 |
-| Dodge |  |  |
+| Dodge | |
 | MOV | 7 |
-| Esquiva |  |
+| Esquiva | |
 |||
 
 ## Habilidades

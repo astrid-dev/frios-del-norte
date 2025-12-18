@@ -25,7 +25,7 @@
 | SAN |  |
 | DB |  |
 | MOV |  |
-| Esquiva |  |
+| Esquiva | |
 | Luck |  |
 |||
 

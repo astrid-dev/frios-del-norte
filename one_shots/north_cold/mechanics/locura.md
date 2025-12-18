@@ -2,7 +2,7 @@
 
 Un Personaje tiene un ataque psicótico al perder $1/5$ de sus puntos de iniciales de cordura. Al perder $5$ puntos de cordura de golpe el personaje entra en shock, se congela del impacto o sale corriendo del susto, después de eso empieza a escuchar alIthaqua (Wendigo) tentándolo a unirse a él.
 
-## La Psicosis delIthaqua (Wendigo)
+## La Psicosis de Ithaqua (Wendigo)
 
 En lugar de que el personaje se quede babeando en un rincón (que es aburrido), si su Cordura baja de 1/5 de su valor original, **se convierte en un villano secreto** controlado por el jugador.
 

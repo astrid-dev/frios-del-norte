@@ -26,9 +26,9 @@ El Sepulturero
 | PM | 8 |
 | SAN | 40 |
 | DB | +1D6 |
-| Dodge |  |  |
+| Dodge | |
 | MOV | 8 |
-| Esquiva |  |
+| Esquiva | |
 |||
 
 ## Habilidades

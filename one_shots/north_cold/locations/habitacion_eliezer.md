@@ -1,25 +1,40 @@
-# Habitación Eliezer
+# Habitación de Éliezer
 
-Al llegar a la puerta, los investigadores no solo encuentran la cerradura echada, sino que toda la madera y el marco están cubiertos por una capa de **hielo negro, estriado y cristalizado** que brilla débilmente. La cerradura parece estar congelada desde dentro.
+## Acceso y Atmósfera
 
-- **Pérdida de Cordura:** La visión de este fenómeno imposible en el clima de Veracruz es un shock. $0/1D3$  SAN (al ver la puerta).
-   
-- **Deterrente Sobrenatural (Interacción):** Si un investigador toca la manija o el hielo, debe hacer una Tirada de POD  $50\%$ .
-   
-    - **Fallo:** Siente el agarre momentáneo de la entidad del frío. Pierde **1 punto de PM** (calor corporal) y sufre **1 punto de daño de congelación** al retirar la mano.
+La habitación de Éliezer se encuentra cerca del estudio, es la primera habitación del bloque de habitaciones. A diferencia del estudio, este es un espacio que debería ser de descanso, pero se siente como una cripta.
 
-| Método de Entrada | Tirada Requerida | Efecto del Éxito | Consecuencia del Fracaso |
-|---|---|---| --- |
-| A: Romper la Cerradura | Cerrajería20%(muy difícil) | La cerradura cede con un clic forzado. | El ruido atrae a 1D3 Chaneques a la zona en el siguiente asalto. |
-| B: Fuerza Bruta | FUE80%(dificultad alta) | La puerta se rompe con un fuerte CRASH, liberando el sello. | La puerta no se abre. El ruido excesivo alerta a Doña Inés y un Nahual(si están cerca) de la posición del grupo. |
-| C: Derretir el Hielo | Consumir1D4Asaltos | El hielo se derrite, la puerta se abre, pero el humo de ozono irrita la garganta. | Se pierde un tiempo crítico, aumentando la probabilidad de que los enemigos se acerquen o que la Medianoche llegue antes. |
+- **Dificultad de Acceso:** La puerta está cerrada por dentro, pero la madera alrededor del marco parece haber cedido ligeramente debido a la contracción por el frío. Forzar (Normal) o Cerrajero (Fácil).
+- **Atmósfera:** Un frío seco y cortante golpea a quien entra. El olor a humedad de los platanales ha sido reemplazado por un aroma aséptico y gélido. No hay rastro de la calidez que se sintió durante la cena; los muebles de roble crujen bajo la tensión térmica.
 
-**Cuando la puerta finalmente se abre por la fuerza (Métodos A o B), el sello mágico se rompe y el aire concentrado se libera violentamente:**
+## El Refugio Quebrantado
 
-1.  **Impacto Gélido (Daño Físico):** Todos los investigadores en la entrada son golpeados por una ráfaga de aire glacial. Deben realizar una **Tirada de CON  $50\%$ .
-   
-    - **Fallo:** Sufren **1 PV de daño por shock de frío** y pierden **1 punto de FUE y 1 punto de DES** temporalmente por el entumecimiento (vuelven al salir de la habitación).
-       
-2.  **Alerta Máxima:** El sonido del estallido o el grito de dolor de un PJ son inconfundibles. **Doña Inés (y el Nahual de servicio, si lo hay) son alertados inmediatamente** y comenzarán a moverse hacia la Recámara Principal.
-   
-3.  **La Recompensa:** Una vez dentro, se enfrentan a la escena del cadáver congelado de Éliezer, encuentran el **Óculo de Obsidiana** y pueden realizar la tirada de **Medicina** para confirmar la causa de muerte.
+La estancia muestra la decadencia de un hombre que perdió el control de su propia casa frente a su capataz.
+
+- **La Cama:** Una cama de dos plazas con pesados edredones. Las mantas están amontonadas en el suelo, como si alguien hubiera luchado por salir de ellas en medio de una pesadilla. Hay una fina capa de escarcha cubriendo las almohadas.
+- **El Lavabo de Porcelana:** El agua en la jarra de porcelana se ha congelado con tal fuerza que el recipiente ha estallado, esparciendo fragmentos de cerámica y hielo por el suelo.
+- **Tirada de Buscar (Normal):** Entre las sábanas se encuentra un crucifijo de plata. Al tocarlo, el metal está tan frío que quema la piel (-1 PV si no se usan guantes).
+
+## El Altar a la Autoridad: La presencia de Inés
+
+Aunque es el cuarto de Éliezer, hay rastros evidentes de la influencia de su ama de llaves e Inés.
+- **El Retrato en la Mesilla:** No hay fotos de familia, sino una fotografía de Inés de pie frente a los platanales, con una expresión severa y mandona. El cristal del marco está agrietado siguiendo la línea de su cuello.
+- **Tirada de Psicología (Normal):** El investigador percibe que la habitación no refleja la personalidad de Éliezer, sino una sumisión. El orden es militar, casi impuesto por alguien que vigilaba su descanso.
+- **La Ropa de Trabajo:** En el armario, los uniformes de trabajo de Éliezer están cubiertos de barro negro y seco, un contraste brutal con la elegancia de su ropa de cena. Parece que Inés lo obligaba a supervisar los platanales bajo condiciones inhumanas.
+
+## Claves y Mecánicas Ocultas
+
+### El Doble Fondo del Armario
+
+- **Tirada de Buscar (Difícil):** Oculto tras los pesados abrigos, hay un compartimento secreto.
+- **Objeto Clave:** Una caja de metal cerrada con un candado de combinación.
+    - **Contenido:** Cartas desesperadas de Éliezer dirigidas a las autoridades que nunca fueron enviadas. En ellas acusa a Inés de "envenenar la tierra con hielo" y de practicar rituales en la capilla de la hacienda.
+    - **Mecánica:** Leer las cartas otorga 1/1D2 de SAN pérdida al comprender la desesperación de un hombre atrapado por su propia empleada.
+
+### El Espejo Empañado
+
+- **Tirada de Cordura (SAN):** Al mirarse en el espejo del tocador, el investigador no ve su reflejo, sino una habitación oscura donde la silueta de una mujer (Inés) lo observa desde una esquina. Al parpadear, la imagen desaparece. **Pérdida de 1/1D3 SAN**.
+
+### El Símbolo en la Puerta
+
+- **Tirada de Mitos de Cthulhu (Difícil) / Ocultismo (Normal):** En la parte interna de la puerta, tallado casi imperceptiblemente en la madera, hay un signo que supuestamente _"mantiene el calor dentro"_. Es un intento fallido de Éliezer por protegerse de lo que Inés traía consigo.

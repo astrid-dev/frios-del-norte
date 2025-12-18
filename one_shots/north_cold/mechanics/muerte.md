@@ -44,6 +44,6 @@ Como tienes una lista de NPCs (Personajes No Jugadores) en la hacienda, si un ju
 
 - **El Tuerto Sebastián:** Tiene armas y fuerza, bueno para el combate final.
 
-- **La Monja de Clausura (Sor Juana):** Útil para curar cordura o dar pistas teológicas.
+- **La Monja de Clausura (Sor Rita):** Útil para curar cordura o dar pistas teológicas.
 
 - **Un Prisionero:** Alguien que Éliezer tenía encerrado y los jugadores encuentran justo después de la muerte del compañero.

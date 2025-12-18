@@ -26,9 +26,9 @@ La Monja de Clausura
 | PM | 16 |
 | SAN | 80 |
 | DB | 0 |
-| Dodge |  |  |
+| Dodge | |
 | MOV | 7 |
-| Esquiva |  |
+| Esquiva | |
 |||
 
 ## Habilidades

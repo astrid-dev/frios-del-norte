@@ -26,9 +26,9 @@ El Inquisidor Renegado
 | PM | 16 |
 | SAN | 80 |
 | DB | +1D4 |
-| Dodge |  |  |
+| Dodge | |
 | MOV | 9 |
-| Esquiva |  |
+| Esquiva | |
 |||
 
 ## Habilidades
