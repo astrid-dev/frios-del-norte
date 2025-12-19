@@ -8,18 +8,20 @@ Al empujar la pesada puerta de madera de la Capilla, una ráfaga de aire helado 
 
 A los pies del altar, en una pose de súplica, yace el cuerpo inerte de Sor Rita (La Monja). Sus manos están crispadas, su rostro pálido y congelado, y hay una fina capa de escarcha en sus labios entreabiertos. Una mancha oscura y coagulada se extiende por el suelo de piedra bajo su pecho. Sus ojos vidriosos miran fijamente hacia la estatua de la Virgen que hay a un lado del altar, ahora parcialmente descubierta, revelando una forma inusual.
 
-La "Estatua Esquelética": A un lado del altar, la estatua de la Virgen está extrañamente cubierta por un paño, pero su forma debajo es demasiado angulosa y demacrada para ser una figura humana. Parece un grotesco esqueleto alargado y esculpido en alguna piedra oscura, casi como si estuviera... posando. Su mano extendida hacia el techo está congelada en un gesto de quietud.
+**La "Estatua Esquelética":** A un lado del altar, la estatua de la Virgen está extrañamente cubierta por un paño, pero su forma debajo es demasiado angulosa y demacrada para ser una figura humana. Parece un grotesco esqueleto alargado y esculpido en alguna piedra oscura, casi como si estuviera... posando. Su mano extendida hacia el techo está congelada en un gesto de quietud.
 
 - **Tirada de Cordura (SAN):** Ver a Sor Rita muerta de forma tan grotesca exige una tirada de 1/1D3 SAN.
 - **Encontrar (Normal):** Al lado de la mano de la Monja, en el suelo, hay un pequeño trozo de pergamino arrugado y manchado de sangre. Es un fragmento de la Biblia: Job 37:9 (Versión Modificada).
-    - **Mitos de Cthulhu (Normal) / Religión (Normal):** Reconocer que el versículo ha sido sutilmente alterado. "Del sur viene el torbellino, Y el frío de los vientos del norte."
+    - **Mitos de Cthulhu (Normal) / Religión (Normal):** Reconocer que el versículo ha sido sutilmente alterado. 
+        - **Original:** "De la cámara del sur viene el torbellino, y el frío de los vientos del norte."
+        - **Alterado:** "De la cámara del sur viene el torbellino, pero del Norte viene **Aquel que Camina sobre los Vientos**, cuyo frío devora la carne y purifica el espíritu."
     - **La Revelación Atávica:** Al leer el versículo, el investigador siente un frio que "sella" todo su cuerpo, como si sus articulaciones ya no fueran flexibles y su corazón ya no permitiera el flujo de sangre. Tiene visiones de ventanas, puertas, cuevas, su ataúd y cualquier abertura sellándose con hielo negro. Aprende el hechizo [Sellado de Obsidiana](../props/hechizos.md)
 
 ## La Criatura Esquelética Despierta
 
-De repente, la "estatua" junto al altar se estremece con un crujido de huesos y hielo. El paño que la cubría cae al suelo, revelando la auténtica naturaleza de la Criatura Esquelética. Es alta, con articulaciones que crujen, y sus ojos huecos emiten un tenue brillo azul. Se mueve, no como una estatua cobrando vida, sino como un depredador que ha estado inmóvil, observando.
+De repente, la "estatua" junto al altar se estremece con un crujido de huesos y hielo. El paño que la cubría cae al suelo, revelando la auténtica naturaleza de ésta Criatura Esquelética. Es alta, con articulaciones que crujen, y sus ojos huecos emiten un tenue brillo azul. Se mueve, no como una estatua cobrando vida, sino como un depredador que ha estado inmóvil, observando.
 
-- **Tirada de Cordura (SAN):** La revelación de que la estatua era una criatura exige otra tirada de 0/1D4 SAN.
+- **Tirada de Cordura (SAN):** La revelación de que la estatua era una criatura exige otra tirada de 0/1D6 SAN.
 
 !!!danger Chupacabras
 Ir a los detalles de la criatura
