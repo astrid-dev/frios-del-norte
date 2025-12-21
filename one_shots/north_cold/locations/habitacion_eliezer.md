@@ -18,6 +18,7 @@ La estancia muestra la decadencia de un hombre que perdió el control de su prop
 ## El Altar a la Autoridad: La presencia de Inés
 
 Aunque es el cuarto de Éliezer, hay rastros evidentes de la influencia de su ama de llaves e Inés.
+
 - **El Retrato en la Mesilla:** No hay fotos de familia, sino una fotografía de Inés de pie frente a los platanales, con una expresión severa y mandona. El cristal del marco está agrietado siguiendo la línea de su cuello.
 - **Tirada de Psicología (Normal):** El investigador percibe que la habitación no refleja la personalidad de Éliezer, sino una sumisión. El orden es militar, casi impuesto por alguien que vigilaba su descanso.
 - **La Ropa de Trabajo:** En el armario, los uniformes de trabajo de Éliezer están cubiertos de barro negro y seco, un contraste brutal con la elegancia de su ropa de cena. Parece que Inés lo obligaba a supervisar los platanales bajo condiciones inhumanas.
@@ -30,6 +31,9 @@ Aunque es el cuarto de Éliezer, hay rastros evidentes de la influencia de su am
 - **Objeto Clave:** Una caja de metal cerrada con un candado de combinación.
     - **Contenido:** Cartas desesperadas de Éliezer dirigidas a las autoridades que nunca fueron enviadas. En ellas acusa a Inés de "envenenar la tierra con hielo" y de practicar rituales en la capilla de la hacienda.
     - **Mecánica:** Leer las cartas otorga 1/1D2 de SAN pérdida al comprender la desesperación de un hombre atrapado por su propia empleada.
+
+> ### LA NOTA
+> **¡Error Fatal!** El rito de la Purificación está corrompido. Doña Inés y los suyos me engañaron; la efigie de **"El Viejo" no es una quema de males, es el portal**. A Medianoche, _Aquel que Camina sobre los Vientos_ usará ese muñeco para tomar forma y el poder suficiente para **congelar para siempre** las playas y el malecón. No hay tiempo para rezos ni para la Armada. Tienen que **destruir y quemar los restos de El Viejo** antes de las campanadas de Nochevieja, o todo habrá terminado. ¡Usen el fuego que nunca se apaga!
 
 ### El Espejo Empañado
 
