@@ -31,19 +31,7 @@ No te preocupes si necesitas mas de un dado para alguna tirada y no lo tienes, s
 
 ### Características
 
-| Total | Difícil (1/2) | Extremo (1/5) |
-|---|---|---|
-| 90 | 45 | 18 |
-| 85 | 43 | 17 |
-| 80 | 40 | 16 |
-| 75 | 38 | 15 |
-| 70 | 35 | 14 |
-| 65 | 33 | 13 |
-| 60 | 30 | 12 |
-| 55 | 28 | 11 |
-| 50 | 25 | 10 |
-| 45 | 23 | 09 |
-| 40 | 20 | 08 |
+Las caracteristicas son lo que describe el estado físico y mental del investigador.
 
 | Característica | 90 (Máximo) | 15 (Mínimo) |
 |---|---|---|
@@ -51,7 +39,7 @@ No te preocupes si necesitas mas de un dado para alguna tirada y no lo tienes, s
 | CON (CON) | Vitalidad Indomable | Enfermo, constitución frágil |
 | DES (DEX) | Reflejos Felinos | Torpe, movimientos lentos |
 | POD (POW) | Voluntad de Hierro | Cobarde, indeciso |
-| APAR (APP) | Presencia Majestuosa | Apariencia Olvidable |
+| APA (APP) | Presencia Majestuosa | Apariencia Olvidable |
 | EDU (EDU) | Conocimiento Enciclopédico | Sin Instrucción Formal |
 | TAM (SIZ) | Corpulencia Dominante | Muy Pequeño/Delgado |
 | INT (INT) | Mente Brillante | Pensamiento Lento |
@@ -86,11 +74,33 @@ No te preocupes si necesitas mas de un dado para alguna tirada y no lo tienes, s
 Fracciones se redondean hacia abajo
 !!!
 
+#### Valores
+
+Todas la características y habilidades tienen un valor base entre 0 y 99, entre mas alto indica que la persona es mas capas o tiene mejor rendimiento en las situaciones que requieran la característica o habilidad.
+
+Este valor viene acompañado de su mitad (Difícil) y su quinta parte (Extremo), estos valores son utilizados en lugar del valor base para situaciones donde sea mas complicado realizar la acción, deberás obtener un resultado igual o menor a estos valores para tener éxito y a asi mismo, cuando algo no tenga una complicación, obtener un resultado en estos rangos significara tener un mayor éxito con posible mejores consecuencias.
+
+| Base | Difícil (1/2) | Extremo (1/5) | Ejemplo |
+|---|---|---|---|
+| 90 | 45 | 18 | Lo mejor de lo mejor <1% de la población mundial
+| 85 | 43 | 17 |
+| 80 | 40 | 16 |
+| 75 | 38 | 15 |
+| 70 | 35 | 14 | Persona superior al promedio
+| 65 | 33 | 13 |
+| 60 | 30 | 12 |
+| 55 | 28 | 11 |
+| 50 | 25 | 10 | Persona Promedio
+| 45 | 23 | 09 |
+| 40 | 20 | 08 |
+| 35 | 18 | 07 |
+| 30 | 15 | 06 | Persona debajo del promedio
+
 #### Valores Estándar
 
-Repartir los valores en las caracteristicas a conveniencia
+Al momento de crear un investigador este tendrá definidas una serie de valores para sus caracteristicas, estos valores se obtienen de tiradas de dados si se quiere dejar al azar o también es posible utilizar la siguiente lista predefinida y repartir los valores en las caracteristicas a conveniencia.
 
-| Valor Base | Éxito Difícil | Éxito Extremo |
+| Base | Difícil | Extremo |
 |---|---|---|
 | 80 | 40 | 16 |
 | 70 | 35 | 14 |
@@ -100,6 +110,27 @@ Repartir los valores en las caracteristicas a conveniencia
 | 50 | 25 | 10 |
 | 40 | 20 | 08 |
 | 30 | 15 | 06 |
+
+Si deseas tirar los dados las cantidades serian:
+
+||| Caracteristicas y sus tiradas
+STR - 3D6 * 5
+
+CON - 3D6 * 5
+
+SIZ - (2D6 + 6) * 5
+
+DEX - 3D6 * 5
+
+APP - 3D6 * 5
+
+INT - (2D6 + 6) * 5
+
+POW - 3D6 * 5
+
+EDU - (2D6 + 6) * 5
+
+|||
 
 ## Mecánicas
 
