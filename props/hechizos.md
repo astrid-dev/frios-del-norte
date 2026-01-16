@@ -1,6 +1,6 @@
 ---
 label: "Hechizos"
-order: 8
+order: 1
 tags: [Los Fríos del Norte]
 ---
 # Hechizos
