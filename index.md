@@ -1,30 +1,23 @@
 ---
-label: ":wave: ¡Bienvenides!"
+label: "Los Fríos del Norte"
 order: 9999
+nav:
+  badge: "Call of Cthulhu|ghost"
+tags: [oneshot,coc,cthulhu, Los Fríos del Norte]
 ---
-# ¡Bienvenides al Gremio del Tlacuache Gritón! 🔥
 
-![Logo Gremio del Tlacuache Gritón](/assets/images/logo.png)
+# Los Fríos del Norte
 
-## Campañas Activas
+![](/assets/images/module_header.png)
 
-Estos son documentos vivos, con informacion que se va descubriendo conforme las campañas avanzan y los jugadores hacen notas.
+El Porfiriato ha quedado atrás. La revolución ha obligado a Venustiano Carranza a mover su gobierno y la capital de la República al Puerto de Veracruz. Este cambio, junto con la reciente intervención de los Estados Unidos, ha causado una mezcla de emociones, confusión y un profundo recelo en la ciudad, donde algunos de sus pobladores mas arraigados a las tradiciones planean tomar cartas en el asunto para restaurar sus vidas y las de sus paisanos.
 
-Están pensados para tener la informacion relevante para los jugadores centralizada, permitiendo a jugadores nuevos ponerse al día o refrescar la memoria de los veteranos. Estos documentos no deben tener adelantos de la campaña ni spoilers.
+...Los investigadores reciben un telegrama urgente de Éliezer Poisot, un conocido hacendado y productor de plátano con curiosidad por el ocultismo y las tradiciones esotéricas. El mensaje indica que en los alrededores de su hacienda llega por momentos un neblina gelida que congela cultivos y animales, lo cual es extraño al tratarse del puerto de veracruz, una region completamente tropical.
 
-==- :bento: Livera &emsp; [!badge variant="info" text="DnD 5e"]
-...Short Description
+Éliezer solicita que lo ayuden a entender y documentar el por qué de este cambio tan repentino del clima, que mas que natural parece creado por algo o alguien... Los investigadores deberán viajar lo antes posible para encontrarse con él y desenmarañar el origen de esta anomalia antes de que el frio altere demasiado el ecosistema y el daño sea irreparable.
 
-[Ir a la Campaña](/campaings/livera/index.md)
+!!!info Época
+Un par de años después del Porfiriato, Veracruz, México (c. Diciembre de 1914).
 
-==- :zzz: Onírika &emsp; [!badge variant="info" text="DnD 5e"]
-...Short Description
-
-[Ir a la Campaña](/campaings/onirika/index.md)
-
-==- :bangbang: Error 404 &emsp; [!badge variant="info" text="Mago: la Ascension"]
-...Short Description
-
-[Ir a la Campaña](/campaings/error_404/index.md)
-
-===
+Pasado el solsticio de invierno, cerca del año nuevo
+!!!
