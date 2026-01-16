@@ -1,0 +1,72 @@
+# Check List
+
+- [x] Escenarios
+    - [x] aposentos_ines.md
+    - [x] biblioteca.md
+    - [x] camino_malecon.md
+    - [x] capilla.md
+    - [x] cocina.md
+    - [x] comedor.md
+    - [x] establo_belen.md
+    - [x] estuidio_eliezer.md
+    - [x] habitacion_eliezer.md
+    - [x] patio.md
+    - [x] platanares.md
+    - [x] pozo.md
+    - [x] puerto_malecon.md
+    - [x] recibidor.md
+    - [x] sala_costura.md
+    - [x] sotano.md
+    - [x] zona_baile.md
+- [x] Historia (Guion)
+    - [x] Pasos de la historia
+    - [x] Coherencia de los escenarios
+- [x] Sonidos
+- [x] Crear personaje no personales
+    - [x] Definir lista de roles posible
+    - [x] Crear Lista de habilidades por rol
+- [x] Mapas
+    - [x] Hacienda
+    - [x] Puerto de Veracruz
+- [x] Hechizos
+    - [x] Ojo del Viento Gélido
+    - [x] Visión Remota (El Trauma)
+    - [x] Sellado de Obsidiana
+    - [x] Llamar a Ithaqua (Wendigo) Menor
+    - [x] Canto del Maíz Muerto
+- [x] Notas
+    - [x] Rito de purificación corrupto
+    - [x] Control de Ithaqua (Wendigo)
+- [x] Lista Habilidades
+    - [x] Administrador (Ale)
+    - [x] Retratista / Pintora (Hana)
+    - [x] Actriz Teatro / Gimnasta de circo (Marlene)
+    - [x] Productor de Cafe y Cafetero (Riku)
+    - [x] Naturalista / Estudiante Ciencias Naturales (Hika)
+    - [x] Estudiante Escuela Normalista (Edgar)
+    - [x] Director Escuela Especializada (Pipe)
+- [x] Mecánicas Extra
+    - [x] Pelea Oscuridad
+    - [x] Suerte de Chaneques
+    - [x] Locura (Tentación de Ithaqua)
+    - [x] Muerte (Congelación en vida)
+- [x] Cartas de invitación
+    - [x] Ale
+    - [x] Hana
+    - [x] Marlene
+    - [x] Riku
+    - [x] Hika
+    - [x] Edgar
+    - [x] Pepi
+- [x] Estadísticas de NPC
+    - [x] Ines
+    - [x] Éliezer
+    - [x] Monja
+    - [x] Cochero
+    - [x] Mensajero
+    - [x] Peon
+- [x] Estadísticas de Críptidos
+    - [x] Ithaqua (Wendigo)
+    - [x] Nahual
+    - [x] Chaneques
+    - [x] Chupacabras

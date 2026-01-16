@@ -16,22 +16,11 @@ branding:
 
 favicon: /assets/images/logo_tlacuache.png
 
-links:
-  - text: Nivel 20
-    link: https://nivel20.com
-    icon: ":globe_with_meridians:"
-  - text: Dados Virtuales - Android
-    link: https://play.google.com/store/apps/details?id=com.AlexHicks.Dice
-    icon: ":game_die:"
-  - text: Dados Virtuales - iOS
-    link: https://apps.apple.com/us/app/mighty-dice/id1379577924
-    icon: ":game_die:"
-
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 
 nav:
-  mode: stack
+  mode: default
   icons:
     mode: none
 
